@@ -189,8 +189,6 @@ sections:
       Charlotte, NC, 28212
       United States of America</address>
       </p>
-    text:  |
-    sdsd
     actions:
       - type: Button
         showIcon: true
