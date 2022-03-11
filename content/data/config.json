@@ -7,7 +7,7 @@
         "primaryColors": "colors-e",
         "secondaryColors": "colors-e",
         "title": ".",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
