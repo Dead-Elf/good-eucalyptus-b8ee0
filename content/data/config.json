@@ -7,7 +7,7 @@
         "primaryColors": "colors-d",
         "secondaryColors": "colors-d",
         "title": "Business",
-        "isTitleVisible": false,
+        "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
