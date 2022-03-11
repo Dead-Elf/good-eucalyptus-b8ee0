@@ -181,7 +181,7 @@ sections:
   - colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: We do fishing differently
+    title: Locate Us
     subtitle: Fresh. Better. Faster.
     text: ''
     actions:
