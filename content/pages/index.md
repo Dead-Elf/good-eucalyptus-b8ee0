@@ -20,14 +20,7 @@ sections:
     colors: colors-d
     backgroundSize: inset
     subtitle: Fresh. Better. Faster.
-    actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-        iconPosition: right
-        icon: arrowRight
-        showIcon: true
+    actions: []
     backgroundImage:
       type: BackgroundImage
       url: /images/deadelf_standing_New_arivals_Hero_tile.png
