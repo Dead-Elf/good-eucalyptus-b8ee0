@@ -70,7 +70,7 @@ sections:
         textAlign: center
   - colors: colors-d
     elementId: ''
-    title: Gallery
+    title: Products
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
