@@ -71,7 +71,7 @@ sections:
   - colors: colors-d
     elementId: ''
     title: Products
-    subtitle: This is the subtitle
+    subtitle: What we carry
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
