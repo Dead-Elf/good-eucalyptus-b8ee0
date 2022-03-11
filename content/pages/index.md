@@ -180,7 +180,7 @@ sections:
         justifyContent: flex-start
   - type: ContactSection
     colors: colors-d
-    title: Join our club
+    title: Locate Us
     text: |
       ![](/images/location.png)Off E Independence Expressway  
     styles:
