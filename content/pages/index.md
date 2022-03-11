@@ -190,7 +190,7 @@ sections:
       United States of America</address>
       </p>
       <p>
-       980-207-3003
+       Call: 980-207-3003
       </p>
     actions:
       - type: Button
