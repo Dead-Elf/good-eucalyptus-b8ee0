@@ -19,7 +19,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: inset
-    subtitle: Fresh. Better. Faster.
+    subtitle: F
     actions: []
     backgroundImage:
       type: BackgroundImage
