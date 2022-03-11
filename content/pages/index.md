@@ -32,7 +32,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       url: /images/deadelf_standing_New_arivals_Hero_tile.png
-      backgroundSize: auto
+      backgroundSize: contain
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 85
