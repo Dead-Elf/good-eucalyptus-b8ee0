@@ -182,7 +182,6 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Locate Us
-    subtitle: Fresh. Better. Faster.
     text: ''
     actions:
       - type: Button
