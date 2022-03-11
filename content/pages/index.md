@@ -76,7 +76,7 @@ sections:
       - type: ImageBlock
         url: /images/2__69672.1644349236.jpg
         altText: Image one
-        caption: Image one caption
+        caption: Pokemon
       - type: ImageBlock
         url: /images/gallery-2.jpg
         altText: Image two
