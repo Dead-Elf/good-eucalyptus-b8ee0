@@ -204,13 +204,6 @@ sections:
           isRequired: false
           width: 1/2
           type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
         - name: address
           label: Address
           hideLabel: true
