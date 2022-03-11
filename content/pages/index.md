@@ -182,12 +182,15 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Locate Us
-    text: >+
-      [Dead Elf Collectibles - Google
-      Maps](https://www.google.com/maps/place/Dead+Elf+Collectibles/@35.1862592,-80.7598516,17z/data=!4m5!3m4!1s0x885421a6c442e923:0x59a66c0f6dba4dbc!8m2!3d35.1876104!4d-80.7573782)
+    text: |
+      \<p>
 
+      \<address>5309 E Independence Blvd.
+      Suite B
+      Charlotte, NC, 28212
+      United States of America\</address>
 
-
+      \</p>
     actions:
       - type: Button
         showIcon: true
