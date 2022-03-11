@@ -181,8 +181,9 @@ sections:
   - type: ContactSection
     colors: colors-d
     title: Locate Us
-    text: |
-      ![](/images/location.png)Off E Independence Expressway  
+    text: >
+      ![](/images/location.png)<https://www.google.com/maps/place/Dead+Elf+Collectibles/@35.1862592,-80.7598516,17z/data=!4m5!3m4!1s0x885421a6c442e923:0x59a66c0f6dba4dbc!8m2!3d35.1876104!4d-80.7573782>Off
+      E Independence Expressway
     styles:
       self:
         height: auto
