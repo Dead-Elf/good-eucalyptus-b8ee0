@@ -178,34 +178,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: ContactSection
-    colors: colors-d
-    title: Locate Us
-    text: |+
-      ```
-      ```
-
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: center
-      text:
-        textAlign: center
   - colors: colors-d
     elementId: ''
     backgroundSize: full
