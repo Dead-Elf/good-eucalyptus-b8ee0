@@ -52,7 +52,6 @@ sections:
     colors: colors-d
     quote: |
       Holding Text for some phrase
-    name: Isabelle Parks
     title: Head chef at Parks
     styles:
       self:
