@@ -74,7 +74,7 @@ sections:
     subtitle: What we carry
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/2__69672.1644349236.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
