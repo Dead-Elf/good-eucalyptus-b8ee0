@@ -7,7 +7,7 @@
         "primaryColors": "colors-e",
         "secondaryColors": "colors-e",
         "title": "5309 E Independence Blvd.\nSuite B\nCharlotte, NC, 28212\nUnited States of America",
-        "isTitleVisible": false,
+        "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
