@@ -31,7 +31,7 @@ sections:
         showIcon: true
     backgroundImage:
       type: BackgroundImage
-      url: /images/hero.webp
+      url: /images/deadelf_standing_New_arivals_Hero_tile.png
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
