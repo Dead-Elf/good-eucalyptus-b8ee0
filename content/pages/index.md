@@ -19,7 +19,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: inset
-    subtitle: F
+    subtitle: Holding Text
     actions: []
     backgroundImage:
       type: BackgroundImage
