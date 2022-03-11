@@ -183,14 +183,12 @@ sections:
     backgroundSize: full
     title: Locate Us
     text: |
-      \<p>
-
-      \<address>5309 E Independence Blvd.
+      <p>
+      <address>5309 E Independence Blvd.
       Suite B
       Charlotte, NC, 28212
-      United States of America\</address>
-
-      \</p>
+      United States of America</address>
+      </p>
     actions:
       - type: Button
         showIcon: true
