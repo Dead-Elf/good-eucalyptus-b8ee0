@@ -155,16 +155,17 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Locate Us
-    text: |
+    text: |+
       <p>
       <address>5309 E Independence Blvd.
-      Suite B
+      Suite F
       Charlotte, NC, 28212
       United States of America</address>
       </p>
       <p>
        Call: 980-207-3003
       </p>
+
     actions:
       - type: Button
         showIcon: true
