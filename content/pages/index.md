@@ -99,8 +99,7 @@ sections:
         caption: flesh and blood
         elementId: ''
         type: ImageBlock
-      - url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+      - url: /images/pngwing.com.png
         altText: altText of the image
         caption: Magic the gathering
         elementId: ''
