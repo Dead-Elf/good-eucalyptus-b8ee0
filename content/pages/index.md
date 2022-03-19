@@ -85,7 +85,6 @@ sections:
       - type: ImageBlock
         url: /images/wixoss.png
         altText: Image four
-        caption: wixoss
       - url: /images/vg_logo.png
         altText: altText of the image
         elementId: ''
