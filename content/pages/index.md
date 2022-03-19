@@ -102,6 +102,7 @@ sections:
       - url: /images/Warhammer.png
         elementId: ''
         type: ImageBlock
+        altText: Warhammer
     spacing: 16
     columns: 3
     aspectRatio: '16:9'
