@@ -139,7 +139,7 @@ sections:
         altText: Image two
         caption: accessories
       - type: ImageBlock
-        url: /images/SM-placeholder-300x150.png
+        url: /images/20220221_180705.jpg
         altText: Image three
         caption: plushies
       - type: ImageBlock
