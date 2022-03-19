@@ -320,7 +320,6 @@ sections:
           space is  super clean and they have everything! TCG's, comics, 
           miniature games, will definitely be going back again and again”
         name: Dan
-        title: Product Marketing Manager at Acme
         image:
           url: >-
             https://assets.stackbit.com/components/images/default/default-person.png
