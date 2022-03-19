@@ -119,7 +119,7 @@ sections:
           - pr-4
         justifyContent: center
         borderColor: border-secondary
-        borderWidth: 1
+        borderWidth: 0
         borderStyle: none
       title:
         textAlign: center
