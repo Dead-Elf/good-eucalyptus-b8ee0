@@ -128,7 +128,7 @@ sections:
     type: MediaGallerySection
   - colors: colors-c
     elementId: ''
-    subtitle: Collectibles
+    subtitle: Collectibles & Accessories
     images:
       - type: ImageBlock
         url: /images/20220319_132502.jpg
