@@ -150,7 +150,6 @@ sections:
     type: DividerSection
   - colors: colors-d
     elementId: ''
-    title: Gallery
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
