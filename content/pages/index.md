@@ -74,7 +74,7 @@ sections:
     subtitle: TCG's
     images:
       - type: ImageBlock
-        url: /images/2__69672.1644349236.jpg
+        url: /images/PinClipart.com_team-building-clip-art_5333611.png
         caption: Pokémon
         altText: Pokémon
       - type: ImageBlock
