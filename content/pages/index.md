@@ -272,9 +272,12 @@ sections:
     title: ''
     subtitle: ''
     testimonials:
-      - quote: >-
-          "This team is experienced, personable and just fun to be with. You
-          will have the best fishing experience of your life."
+      - quote: >
+          "Easily the best store in and around Charlotte for Pokémon! Every
+          Saturday night then do a Pokémon night which we have become regulars
+          at now. They are also the only place I have found that has a huge
+          selection of plushies and anime products. If you haven’t been here you
+          have to give them a shot!"
         name: Oliver Mills
         title: Head chef at Parks
         image:
