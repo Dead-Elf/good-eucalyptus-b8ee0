@@ -118,8 +118,8 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderColor: border-secondary
-        borderWidth: 0
+        borderColor: border-complementary
+        borderWidth: 1
         borderStyle: none
       title:
         textAlign: center
