@@ -94,8 +94,7 @@ sections:
         caption: vanguard
         elementId: ''
         type: ImageBlock
-      - url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+      - url: /images/pic5061121.jpg
         altText: altText of the image
         caption: flesh and blood
         elementId: ''
