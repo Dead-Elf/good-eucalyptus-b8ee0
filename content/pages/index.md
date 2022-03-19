@@ -279,7 +279,7 @@ sections:
           selection of plushies and anime products. If you haven’t been here you
           have to give them a shot!"
         name: Derek Dilbeck (Derek Media)
-        title: Head chef at Parks
+        title: Local Guide
         image:
           type: ImageBlock
           url: /images/gallery-2.jpg
