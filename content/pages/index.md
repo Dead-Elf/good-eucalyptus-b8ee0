@@ -150,7 +150,7 @@ sections:
     type: DividerSection
   - colors: colors-d
     elementId: ''
-    subtitle: This is the subtitle
+    subtitle: Collectibles
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
