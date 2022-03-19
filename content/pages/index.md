@@ -311,7 +311,7 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-28
+          - pt-2
           - pb-28
         justifyContent: center
       title:
