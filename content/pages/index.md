@@ -120,6 +120,7 @@ sections:
         justifyContent: center
         borderColor: border-secondary
         borderWidth: 1
+        borderStyle: none
       title:
         textAlign: center
       subtitle:
