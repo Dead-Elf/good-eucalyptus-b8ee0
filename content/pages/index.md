@@ -82,13 +82,12 @@ sections:
       - type: ImageBlock
         url: /images/dragonball-b782a698.png
         altText: Image three
-        caption: dragon ball super
       - type: ImageBlock
         url: /images/wixoss.png
         altText: Image four
+        caption: wixoss
       - url: /images/vg_logo.png
         altText: altText of the image
-        caption: vanguard
         elementId: ''
         type: ImageBlock
       - url: /images/fleshblood.png
