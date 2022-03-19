@@ -104,8 +104,7 @@ sections:
         caption: Magic the gathering
         elementId: ''
         type: ImageBlock
-      - url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+      - url: /images/MetaZoo-Logo-Brand-Asset.png
         altText: altText of the image
         caption: Metazoo
         elementId: ''
