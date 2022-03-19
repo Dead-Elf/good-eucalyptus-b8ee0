@@ -71,7 +71,7 @@ sections:
   - colors: colors-d
     elementId: ''
     title: Products
-    subtitle: What we carry
+    subtitle: TCG's
     images:
       - type: ImageBlock
         url: /images/2__69672.1644349236.jpg
