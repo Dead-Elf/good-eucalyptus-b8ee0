@@ -94,7 +94,7 @@ sections:
         caption: vanguard
         elementId: ''
         type: ImageBlock
-      - url: /images/pic5061121.jpg
+      - url: /images/fleshblood.png
         altText: altText of the image
         caption: flesh and blood
         elementId: ''
