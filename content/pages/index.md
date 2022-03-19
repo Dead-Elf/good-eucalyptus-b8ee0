@@ -79,7 +79,6 @@ sections:
       - type: ImageBlock
         url: /images/Capture-1024x1022.png
         altText: Image two
-        caption: Digimon
       - type: ImageBlock
         url: /images/dragonball-b782a698.png
         altText: Image three
