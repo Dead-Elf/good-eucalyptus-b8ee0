@@ -143,7 +143,7 @@ sections:
         altText: Image three
         caption: plushies
       - type: ImageBlock
-        url: /images/20220319_132502.jpg
+        url: /images/20220319_132124.jpg
         altText: Image four
         caption: Various collectibles figures
     spacing: 16
