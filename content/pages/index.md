@@ -292,7 +292,6 @@ sections:
           and much more. I've met some new people here that I'm glad to call
           friends and I visit the store at a weekly basis. Love This Place!!!”
         name: Yubanny Lopez
-        title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
           url: /images/hilary-ouse.png
