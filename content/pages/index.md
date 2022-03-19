@@ -293,7 +293,6 @@ sections:
         name: Yubanny Lopez
         image:
           type: ImageBlock
-          url: /images/hilary-ouse.png
           altText: Hilary ouse
       - quote: >
           “Best Card Store in Charlotte! All kinds of Pokémon cards and
