@@ -35,7 +35,7 @@ sections:
           - pt-20
           - pb-96
           - pr-3
-          - pl-3
+          - pl-0
         alignItems: center
         justifyContent: center
         flexDirection: row
