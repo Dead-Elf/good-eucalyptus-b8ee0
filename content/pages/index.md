@@ -296,9 +296,12 @@ sections:
           type: ImageBlock
           url: /images/hilary-ouse.png
           altText: Hilary ouse
-      - quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
+      - quote: >
+          “Best Card Store in Charlotte! All kinds of Pokémon cards and
+          everything you could need as a collector! Such a clean and welcoming
+          environment! Also, they sell and buy individual Pokémon cards
+          EXCLUSIVE ONLY  I believe! And host events for trading! Definitely the
+          place to go!”
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
