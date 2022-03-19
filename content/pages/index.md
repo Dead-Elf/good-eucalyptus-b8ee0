@@ -291,7 +291,7 @@ sections:
           you're not into that they also have comic books, funko pops, plushies
           and much more. I've met some new people here that I'm glad to call
           friends and I visit the store at a weekly basis. Love This Place!!!”
-        name: Hilary Ouse
+        name: Yubanny Lopez
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
