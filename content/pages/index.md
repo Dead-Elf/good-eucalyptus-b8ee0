@@ -89,8 +89,7 @@ sections:
         url: /images/79629.jpg
         altText: Image four
         caption: wixoss
-      - url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+      - url: /images/vg_logo_en.png
         altText: altText of the image
         caption: vanguard
         elementId: ''
