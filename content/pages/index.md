@@ -67,7 +67,7 @@ sections:
         textAlign: center
       title:
         textAlign: center
-  - colors: colors-d
+  - colors: colors-c
     elementId: ''
     title: Products
     images:
