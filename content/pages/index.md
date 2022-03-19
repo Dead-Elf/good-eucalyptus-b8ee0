@@ -23,7 +23,7 @@ sections:
     actions: []
     backgroundImage:
       type: BackgroundImage
-      url: /images/deadelf_standing_New_arivals_Hero_tile.png
+      url: /images/DE_Banner.png
       backgroundSize: contain
       backgroundPosition: center
       backgroundRepeat: no-repeat
