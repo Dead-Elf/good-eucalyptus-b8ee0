@@ -246,7 +246,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderColor: border-dark
+        borderColor: border-complementary
       title:
         textAlign: left
       subtitle:
