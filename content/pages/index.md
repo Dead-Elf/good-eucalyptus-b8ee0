@@ -89,7 +89,7 @@ sections:
         url: /images/79629.jpg
         altText: Image four
         caption: wixoss
-      - url: /images/vg_logo_en.png
+      - url: /images/dragonball.png
         altText: altText of the image
         caption: vanguard
         elementId: ''
