@@ -86,7 +86,7 @@ sections:
         altText: Image three
         caption: dragon ball super
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/79629.jpg
         altText: Image four
         caption: wixoss
       - url: >-
