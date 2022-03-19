@@ -137,7 +137,7 @@ sections:
       - type: ImageBlock
         url: /images/20220319_132447.jpg
         altText: Image two
-        caption: accessories
+        caption: Accessories
       - type: ImageBlock
         url: /images/20220221_180705.jpg
         altText: Image three
