@@ -126,7 +126,7 @@ sections:
       subtitle:
         textAlign: center
     type: MediaGallerySection
-  - colors: colors-d
+  - colors: colors-c
     elementId: ''
     subtitle: Collectibles
     images:
