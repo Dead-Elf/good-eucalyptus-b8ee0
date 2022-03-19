@@ -84,7 +84,7 @@ sections:
       - type: ImageBlock
         url: /images/gallery-3.jpg
         altText: Image three
-        caption: Image three caption
+        caption: dragon ball super
       - type: ImageBlock
         url: /images/gallery-4.jpg
         altText: Image four
