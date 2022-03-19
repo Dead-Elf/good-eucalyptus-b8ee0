@@ -96,12 +96,10 @@ sections:
         type: ImageBlock
       - url: /images/pngwing.com.png
         altText: altText of the image
-        caption: Magic the gathering
         elementId: ''
         type: ImageBlock
       - url: /images/metazoo.png
         altText: altText of the image
-        caption: Metazoo
         elementId: ''
         type: ImageBlock
     spacing: 16
