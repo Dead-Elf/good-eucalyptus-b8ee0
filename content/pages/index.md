@@ -141,12 +141,12 @@ sections:
         width: wide
         padding:
           - pt-3
-          - pb-3
+          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
         borderWidth: 1
-        borderStyle: solid
+        borderStyle: dotted
     type: DividerSection
   - colors: colors-d
     elementId: ''
