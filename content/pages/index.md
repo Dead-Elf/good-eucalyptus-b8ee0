@@ -278,7 +278,7 @@ sections:
           at now. They are also the only place I have found that has a huge
           selection of plushies and anime products. If you haven’t been here you
           have to give them a shot!"
-        name: Oliver Mills
+        name: Derek Dilbeck (Derek Media)
         title: Head chef at Parks
         image:
           type: ImageBlock
