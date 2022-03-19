@@ -148,7 +148,7 @@ sections:
         altText: Image two
         caption: accessories
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/SM-placeholder-300x150.png
         altText: Image three
         caption: plushies
       - type: ImageBlock
