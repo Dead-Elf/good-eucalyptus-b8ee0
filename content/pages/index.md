@@ -144,7 +144,7 @@ sections:
         altText: Image one
         caption: Anime figures
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/SM-placeholder-300x150.png
         altText: Image two
         caption: accessories
       - type: ImageBlock
