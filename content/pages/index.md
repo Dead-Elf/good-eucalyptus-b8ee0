@@ -70,7 +70,6 @@ sections:
   - colors: colors-d
     elementId: ''
     title: Products
-    subtitle: TCG's
     images:
       - type: ImageBlock
         url: /images/pokemon.png
