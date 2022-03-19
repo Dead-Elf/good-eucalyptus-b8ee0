@@ -140,7 +140,7 @@ sections:
     subtitle: Collectibles
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/SM-placeholder-300x150.png
         altText: Image one
         caption: Anime figures
       - type: ImageBlock
