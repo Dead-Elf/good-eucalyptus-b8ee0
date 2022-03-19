@@ -140,8 +140,8 @@ sections:
       self:
         width: wide
         padding:
-          - pt-3
-          - pb-2
+          - pt-2
+          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
