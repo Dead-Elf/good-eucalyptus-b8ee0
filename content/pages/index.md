@@ -319,7 +319,7 @@ sections:
           “Went with my son to play Pokemon. They couldn't have been nicer!! The
           space is  super clean and they have everything! TCG's, comics, 
           miniature games, will definitely be going back again and again”
-        name: Johnna Doe
+        name: Dan
         title: Product Marketing Manager at Acme
         image:
           url: >-
