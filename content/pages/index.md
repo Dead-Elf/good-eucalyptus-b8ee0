@@ -285,8 +285,12 @@ sections:
           url: /images/gallery-2.jpg
           altText: A man fishing
       - quote: >
-          “I have been fishing steelhead and salmon with the SB for over 5
-          years. I have never been disappointed.”
+          “I've never been to a card shop before in my life so I'm so glad that
+          my 1st experience has been Dead Elf. They have an amazing and fun
+          atmosphere, tons of product for pretty much every card game and if
+          you're not into that they also have comic books, funko pops, plushies
+          and much more. I've met some new people here that I'm glad to call
+          friends and I visit the store at a weekly basis. Love This Place!!!”
         name: Hilary Ouse
         title: Product Marketing Manager at Acme
         image:
