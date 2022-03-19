@@ -80,7 +80,7 @@ sections:
       - type: ImageBlock
         url: /images/gallery-2.jpg
         altText: Image two
-        caption: Image two caption
+        caption: Digimon
       - type: ImageBlock
         url: /images/gallery-3.jpg
         altText: Image three
