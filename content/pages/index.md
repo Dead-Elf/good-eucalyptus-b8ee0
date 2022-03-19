@@ -99,7 +99,7 @@ sections:
         altText: altText of the image
         elementId: ''
         type: ImageBlock
-      - url: /images/Warhammer-logo.png
+      - url: /images/Warhammer.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
