@@ -282,7 +282,6 @@ sections:
         title: Local Guide
         image:
           type: ImageBlock
-          url: /images/gallery-2.jpg
           altText: A man fishing
       - quote: >
           “I've never been to a card shop before in my life so I'm so glad that
