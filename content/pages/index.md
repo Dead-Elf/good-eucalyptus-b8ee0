@@ -262,7 +262,7 @@ sections:
   - colors: colors-c
     elementId: ''
     variant: variant-a
-    title: ''
+    title: Testimonials
     subtitle: ''
     testimonials:
       - quote: >
