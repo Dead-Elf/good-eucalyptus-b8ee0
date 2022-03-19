@@ -101,7 +101,6 @@ sections:
         type: ImageBlock
       - url: /images/Warhammer.png
         altText: altText of the image
-        caption: Caption of the image
         elementId: ''
         type: ImageBlock
     spacing: 16
