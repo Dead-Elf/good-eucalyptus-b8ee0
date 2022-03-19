@@ -302,7 +302,7 @@ sections:
           environment! Also, they sell and buy individual Pokémon cards
           EXCLUSIVE ONLY  I believe! And host events for trading! Definitely the
           place to go!”
-        name: Johnna Doe
+        name: Joseph Walsh
         title: Product Marketing Manager at Acme
         image:
           url: >-
