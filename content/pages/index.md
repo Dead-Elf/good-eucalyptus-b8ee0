@@ -317,8 +317,6 @@ sections:
           miniature games, will definitely be going back again and again”
         name: Dan
         image:
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-person.png
           altText: Person photo
         elementId: ''
         styles:
