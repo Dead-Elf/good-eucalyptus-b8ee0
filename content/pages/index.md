@@ -178,7 +178,7 @@ sections:
     type: MediaGallerySection
   - colors: colors-d
     elementId: ''
-    title: Gallery
+    title: Store Gallery
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
