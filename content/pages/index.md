@@ -92,7 +92,6 @@ sections:
         type: ImageBlock
       - url: /images/fleshblood.png
         altText: altText of the image
-        caption: flesh and blood
         elementId: ''
         type: ImageBlock
       - url: /images/pngwing.com.png
