@@ -131,7 +131,7 @@ sections:
     subtitle: Collectibles
     images:
       - type: ImageBlock
-        url: /images/SM-placeholder-300x150.png
+        url: /images/20220319_132502.jpg
         altText: Image one
         caption: Anime figures
       - type: ImageBlock
