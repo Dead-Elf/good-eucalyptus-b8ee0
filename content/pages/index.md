@@ -179,7 +179,7 @@ sections:
   - colors: colors-d
     elementId: ''
     title: Store Gallery
-    subtitle: This is the subtitle
+    subtitle: Store Front and Play Space
     images:
       - type: ImageBlock
         url: /images/3.jpg
