@@ -152,7 +152,7 @@ sections:
         altText: Image three
         caption: plushies
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/SM-placeholder-300x150.png
         altText: Image four
         caption: Various collectibles figures
     spacing: 16
