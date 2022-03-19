@@ -13,7 +13,7 @@
             {
                 "type": "Button",
                 "label": "Contact us",
-                "url": "mailto:info@lorem.mail",
+                "url": "mailto:contact@deadelfcollectibles.com",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
