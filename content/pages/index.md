@@ -261,7 +261,7 @@ sections:
     type: HeroSection
   - colors: colors-c
     elementId: ''
-    variant: variant-b
+    variant: variant-a
     title: Testimonials
     subtitle: ''
     testimonials:
