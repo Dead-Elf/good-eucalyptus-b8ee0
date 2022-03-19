@@ -168,7 +168,7 @@ sections:
       - type: ImageBlock
         url: /images/gallery-4.jpg
         altText: Image four
-        caption: Image four caption
+        caption: various collectibles figures
     spacing: 16
     columns: 3
     aspectRatio: '16:9'
