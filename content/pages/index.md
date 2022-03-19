@@ -303,7 +303,6 @@ sections:
           EXCLUSIVE ONLY  I believe! And host events for trading! Definitely the
           place to go!”
         name: Joseph Walsh
-        title: Product Marketing Manager at Acme
         image:
           url: >-
             https://assets.stackbit.com/components/images/default/default-person.png
