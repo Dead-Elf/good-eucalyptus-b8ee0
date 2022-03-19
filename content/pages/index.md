@@ -78,7 +78,7 @@ sections:
         caption: Pokémon
         altText: Pokémon
       - type: ImageBlock
-        url: /images/118734096_105338024640802_8934784446808492192_n.jpg
+        url: /images/2_164474_e.png
         altText: Image two
         caption: Digimon
       - type: ImageBlock
