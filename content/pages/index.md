@@ -166,7 +166,7 @@ sections:
       subtitle:
         textAlign: center
     type: MediaGallerySection
-  - colors: colors-d
+  - colors: colors-a
     elementId: ''
     title: Store Gallery
     subtitle: Store Front and Play Space
