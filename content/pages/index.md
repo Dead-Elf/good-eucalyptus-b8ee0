@@ -141,7 +141,7 @@ sections:
       - type: ImageBlock
         url: /images/20220221_180705.jpg
         altText: Image three
-        caption: plushies
+        caption: Plushies
       - type: ImageBlock
         url: /images/20220319_132124.jpg
         altText: Image four
