@@ -302,8 +302,6 @@ sections:
           place to go!”
         name: Joseph Walsh
         image:
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-person.png
           altText: Person photo
         elementId: ''
         styles:
