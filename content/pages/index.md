@@ -82,7 +82,7 @@ sections:
         altText: Image two
         caption: Digimon
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/PinClipart.com_dragon-ball-z-clipart_1060625.png
         altText: Image three
         caption: dragon ball super
       - type: ImageBlock
