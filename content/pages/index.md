@@ -50,7 +50,7 @@ sections:
   - type: QuoteSection
     colors: colors-d
     quote: |
-      Holding Text for some phrase
+      Dead Elf Collectibles is here to supply all your TCG needs
     styles:
       self:
         height: auto
