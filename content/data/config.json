@@ -8,14 +8,7 @@
         "secondaryColors": "colors-e",
         "title": ".",
         "isTitleVisible": false,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "secondaryLinks": [
             {
                 "type": "Button",
