@@ -36,8 +36,9 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-d
-    quote: |
-      Dead Elf Collectibles is here to supply all your TCG needs
+    quote: >
+      Your one stop shop for TCGs, Collectible Figures, Board Games, Accessories
+      and so much more!
     styles:
       self:
         height: auto
