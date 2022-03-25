@@ -93,7 +93,7 @@ sections:
         altText: Warhammer
       - url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
-        altText: 'Y'
+        altText: Yugioh
         caption: Caption of the image
         elementId: ''
         type: ImageBlock
