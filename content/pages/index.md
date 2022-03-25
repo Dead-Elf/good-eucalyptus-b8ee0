@@ -92,7 +92,7 @@ sections:
         type: ImageBlock
         altText: Warhammer
       - url: /images/yugioh.png
-        altText: Yugioh
+        altText: Yu-gioh
         caption: Caption of the image
         elementId: ''
         type: ImageBlock
