@@ -84,7 +84,7 @@ sections:
         elementId: ''
         type: ImageBlock
       - url: /images/metazoo.png
-        altText: altText of the image
+        altText: Metazoo TCG
         elementId: ''
         type: ImageBlock
       - url: /images/Warhammer.png
