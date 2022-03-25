@@ -67,7 +67,7 @@ sections:
         altText: Digimon
       - type: ImageBlock
         url: /images/dragonball-b782a698.png
-        altText: Drago
+        altText: Dragonball Z TCG
       - type: ImageBlock
         url: /images/wixoss.png
         altText: Wixoss
