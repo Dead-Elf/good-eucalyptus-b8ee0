@@ -76,7 +76,7 @@ sections:
         elementId: ''
         type: ImageBlock
       - url: /images/fleshblood.png
-        altText: altText of the image
+        altText: flesh and blood TCG
         elementId: ''
         type: ImageBlock
       - url: /images/pngwing.com.png
