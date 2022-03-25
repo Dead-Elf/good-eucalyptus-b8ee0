@@ -93,7 +93,6 @@ sections:
         altText: Warhammer
       - url: /images/yugioh.png
         altText: Yu-gi-oh! TCG
-        caption: Caption of the image
         elementId: ''
         type: ImageBlock
     spacing: 16
