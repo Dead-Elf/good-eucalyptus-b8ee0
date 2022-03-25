@@ -72,7 +72,7 @@ sections:
         url: /images/wixoss.png
         altText: Image four
       - url: /images/vg_logo.png
-        altText: altText of the image
+        altText: Vangaurd
         elementId: ''
         type: ImageBlock
       - url: /images/fleshblood.png
