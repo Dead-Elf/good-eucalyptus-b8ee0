@@ -70,7 +70,7 @@ sections:
         altText: Image three
       - type: ImageBlock
         url: /images/wixoss.png
-        altText: Image four
+        altText: W
       - url: /images/vg_logo.png
         altText: Vangaurd
         elementId: ''
