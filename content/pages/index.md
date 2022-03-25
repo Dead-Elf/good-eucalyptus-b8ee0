@@ -80,7 +80,7 @@ sections:
         elementId: ''
         type: ImageBlock
       - url: /images/pngwing.com.png
-        altText: altText of the image
+        altText: Magic the Gathering
         elementId: ''
         type: ImageBlock
       - url: /images/metazoo.png
