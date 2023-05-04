@@ -63,38 +63,21 @@ sections:
         url: /images/pokemon.png
         altText: Pokémon
       - type: ImageBlock
-        url: /images/Capture-1024x1022.png
-        altText: Digimon
-      - type: ImageBlock
-        url: /images/dragonball-b782a698.png
-        altText: Dragonball Z TCG
+        url: /images/Disney_Lorcana.jpg
+        altText: Disney Lorcana Trading Card Game
+        caption: Disney Lorcana
+        elementId: ''
       - type: ImageBlock
         url: /images/wixoss.png
         altText: Wixoss
-      - url: /images/vg_logo.png
-        altText: Vangaurd
-        elementId: ''
-        type: ImageBlock
-      - url: /images/fleshblood.png
-        altText: flesh and blood TCG
-        elementId: ''
-        type: ImageBlock
       - url: /images/pngwing.com.png
         altText: Magic the Gathering
-        elementId: ''
-        type: ImageBlock
-      - url: /images/metazoo.png
-        altText: Metazoo TCG
         elementId: ''
         type: ImageBlock
       - url: /images/Warhammer.png
         elementId: ''
         type: ImageBlock
         altText: Warhammer
-      - url: /images/yugioh.png
-        altText: Yu-gi-oh! TCG
-        elementId: ''
-        type: ImageBlock
     spacing: 16
     columns: 3
     aspectRatio: '16:9'
@@ -164,21 +147,41 @@ sections:
     subtitle: Store Front and Play Space
     images:
       - type: ImageBlock
-        url: /images/3.jpg
+        url: /images/Storefront.jpg
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Playarea.jpg
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Pokemon_Plushies_Display.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
-        url: /images/2.jpg
+        url: /images/Acessories_center_Display.jpg
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
-        url: /images/1.jpg
+        url: /images/Acessories_carrybag_center_Display.jpg
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
-        url: /images/4.jpg
+        url: /images/Acessories_Display.jpg
         altText: Image four
         caption: Image four caption
+      - type: ImageBlock
+        url: /images/Pokemon_Display.jpg
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Plushies_Display.jpg
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
     spacing: 16
     columns: 4
     aspectRatio: '4:3'
