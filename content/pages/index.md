@@ -36,7 +36,7 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-d
-    quote: "Your one stop shop for Pokemon, Figures, Accessories and\_so\_much\_more!\n"
+    quote: "Your one stop shop for Pokemon, Figures, Accessories and so much more!"
     styles:
       self:
         height: auto
