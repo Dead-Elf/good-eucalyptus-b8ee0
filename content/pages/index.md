@@ -106,21 +106,21 @@ sections:
     subtitle: Collectibles & Accessories
     images:
       - type: ImageBlock
-        url: /images/20220319_132502.jpg
+        url: /images/Deadelf_figures.jpg
         altText: Image one
-        caption: Anime figures
+        caption: Figures
       - type: ImageBlock
-        url: /images/20220319_132447.jpg
+        url: /images/Deadelf_plushies.jpg
         altText: Image two
-        caption: Accessories
-      - type: ImageBlock
-        url: /images/20220221_180705.jpg
-        altText: Image three
         caption: Plushies
       - type: ImageBlock
-        url: /images/20220319_132124.jpg
+        url: /images/Deadelf_accessories.jpg
+        altText: Image three
+        caption: Accessories
+      - type: ImageBlock
+        url: /images/Deadelf_trading_cards.jpg
         altText: Image four
-        caption: Various collectibles figures
+        caption: Trading Cards
     spacing: 16
     columns: 3
     aspectRatio: '16:9'
