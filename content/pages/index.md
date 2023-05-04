@@ -36,8 +36,7 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-d
-    quote: >
-      Your one stop shop for Pokemon, Figures, Accessories and so much more!
+    quote: "Your one stop shop for Pokemon, Figures, Accessories and so much more!"
     styles:
       self:
         height: auto
@@ -64,7 +63,6 @@ sections:
       - type: ImageBlock
         url: /images/Disney_Lorcana.jpg
         altText: Disney Lorcana Trading Card Game
-        caption: Disney Lorcana
         elementId: ''
       - type: ImageBlock
         url: /images/wixoss.png
