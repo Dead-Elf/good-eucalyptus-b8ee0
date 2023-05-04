@@ -37,8 +37,7 @@ sections:
   - type: QuoteSection
     colors: colors-d
     quote: >
-      Your one stop shop for TCGs, Collectible Figures, Board Games, Accessories
-      and so much more!
+      Your one stop shop for Pokemon, Figures, Accessories and so much more!
     styles:
       self:
         height: auto
